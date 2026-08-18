@@ -130,7 +130,8 @@ The API returns appropriate status codes for invalid requests and unknown task I
 
 FastAPI automatically provides interactive API documentation through Swagger UI.
 
-![Swagger UI](swagger.png)
+![Swagger UI](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40a8d907-4d16-4ecd-bccc-ce17e2dfedbd" />
+)
 
 ## Project Structure
 
